@@ -7,7 +7,7 @@ A website to allow a user to create a trip itinerary starting in Nashville, TN a
 * Anthony Johnson
 * Amanda King
 * Patrick Murphy
-* James Su-Shum
+* James Su-Shum: responsible for the weather component of the application utilizing the OpenWeatherMap API
 
 ## Installation
 
